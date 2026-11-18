@@ -1,0 +1,11 @@
+﻿.venv/
+.venv314/
+__pycache__/
+*.pyc
+feedback.db
+ncf_model.pth
+interactions.csv
+train.csv
+validation.csv
+test.csv
+movie_map.csv
